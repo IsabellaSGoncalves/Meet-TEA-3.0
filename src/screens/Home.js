@@ -6,6 +6,7 @@ import IconSoloMeetTEA from '../icons/icon-solo-meet-tea.png';
 import '@fontsource/poetsen-one';
 import '@fontsource/nunito';
 
+
 const Home = (props) => {
     const [openModalVisualizar, setOpenModalVisualizar] = useState(false);
     const [openModalPerfis, setOpenModalPerfis] = useState(false);
